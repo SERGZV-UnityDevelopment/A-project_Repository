@@ -1,0 +1,1112 @@
+fileFormatVersion: 2
+guid: 8b295cef3cbbf79489f9260123279658
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Big-Finger_1_L
+    100002: Big-Finger_1_R
+    100004: Big-Finger_2_L
+    100006: Big-Finger_2_R
+    100008: Big-Finger_3_L
+    100010: Big-Finger_3_R_001
+    100012: Clychica_L
+    100014: Clychica_R
+    100016: Coleno_L
+    100018: Coleno_R
+    100020: Gryd
+    100022: Hand_2_L
+    100024: Hand_2_R
+    100026: Hand_3_L
+    100028: Hand_3_R
+    100030: Hand_L
+    100032: Hand_R
+    100034: Head
+    100036: IK_Hand_L
+    100038: IK_Hand_R
+    100040: IK_Leg_L
+    100042: IK_Leg_R
+    100044: Kist-1_L
+    100046: Kist-1_R
+    100048: Kist-2_L
+    100050: Kist-2_R
+    100052: Kist-3_L
+    100054: Kist-3_R
+    100056: Kist-4_L
+    100058: Kist-4_R
+    100060: Leg_1_L
+    100062: Leg_1_R
+    100064: Leg_2_L
+    100066: Leg_2_R
+    100068: Palec-1_1_L
+    100070: Palec-1_1_R
+    100072: Palec-1_2_L
+    100074: Palec-1_2_R
+    100076: Palec-1_3_L
+    100078: Palec-1_3_R
+    100080: Palec-2_1_L
+    100082: Palec-2_1_R
+    100084: Palec-2_2_L
+    100086: Palec-2_2_R
+    100088: Palec-2_3_L
+    100090: Palec-2_3_R
+    100092: Palec-3_1_L
+    100094: Palec-3_1_R
+    100096: Palec-3_2_L
+    100098: Palec-3_2_R
+    100100: Palec-3_3_L
+    100102: Palec-3_3_R
+    100104: Palec-4_1_L
+    100106: Palec-4_1_R
+    100108: Palec-4_2_L
+    100110: Palec-4_2_R
+    100112: Palec-4_3_L
+    100114: Palec-4_3_R
+    100116: PlayerTestArmature
+    100118: Poyas
+    100120: //RootNode
+    100122: Sheya
+    100124: Sheya_2
+    100126: Stopa_1_L
+    100128: Stopa_1_R
+    100130: Stopa_2_L
+    100132: Stopa_2_R
+    100134: Taz
+    400000: Big-Finger_1_L
+    400002: Big-Finger_1_R
+    400004: Big-Finger_2_L
+    400006: Big-Finger_2_R
+    400008: Big-Finger_3_L
+    400010: Big-Finger_3_R_001
+    400012: Clychica_L
+    400014: Clychica_R
+    400016: Coleno_L
+    400018: Coleno_R
+    400020: Gryd
+    400022: Hand_2_L
+    400024: Hand_2_R
+    400026: Hand_3_L
+    400028: Hand_3_R
+    400030: Hand_L
+    400032: Hand_R
+    400034: Head
+    400036: IK_Hand_L
+    400038: IK_Hand_R
+    400040: IK_Leg_L
+    400042: IK_Leg_R
+    400044: Kist-1_L
+    400046: Kist-1_R
+    400048: Kist-2_L
+    400050: Kist-2_R
+    400052: Kist-3_L
+    400054: Kist-3_R
+    400056: Kist-4_L
+    400058: Kist-4_R
+    400060: Leg_1_L
+    400062: Leg_1_R
+    400064: Leg_2_L
+    400066: Leg_2_R
+    400068: Palec-1_1_L
+    400070: Palec-1_1_R
+    400072: Palec-1_2_L
+    400074: Palec-1_2_R
+    400076: Palec-1_3_L
+    400078: Palec-1_3_R
+    400080: Palec-2_1_L
+    400082: Palec-2_1_R
+    400084: Palec-2_2_L
+    400086: Palec-2_2_R
+    400088: Palec-2_3_L
+    400090: Palec-2_3_R
+    400092: Palec-3_1_L
+    400094: Palec-3_1_R
+    400096: Palec-3_2_L
+    400098: Palec-3_2_R
+    400100: Palec-3_3_L
+    400102: Palec-3_3_R
+    400104: Palec-4_1_L
+    400106: Palec-4_1_R
+    400108: Palec-4_2_L
+    400110: Palec-4_2_R
+    400112: Palec-4_3_L
+    400114: Palec-4_3_R
+    400116: PlayerTestArmature
+    400118: Poyas
+    400120: //RootNode
+    400122: Sheya
+    400124: Sheya_2
+    400126: Stopa_1_L
+    400128: Stopa_1_R
+    400130: Stopa_2_L
+    400132: Stopa_2_R
+    400134: Taz
+    7400000: RunningForward2
+    7400002: PlayerTestArmatureAction
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RunningForward2
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PlayerTestArmature
+        weight: 1
+      - path: PlayerTestArmature/IK_Hand_L
+        weight: 1
+      - path: PlayerTestArmature/IK_Hand_R
+        weight: 1
+      - path: PlayerTestArmature/IK_Leg_L
+        weight: 1
+      - path: PlayerTestArmature/IK_Leg_R
+        weight: 1
+      - path: PlayerTestArmature/Taz
+        weight: 1
+      - path: PlayerTestArmature/Taz/Leg_1_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Leg_1_L/Leg_2_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Leg_1_L/Leg_2_L/Coleno_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Leg_1_L/Leg_2_L/Stopa_1_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Leg_1_L/Leg_2_L/Stopa_1_L/Stopa_2_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Leg_1_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Leg_1_R/Leg_2_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Leg_1_R/Leg_2_R/Coleno_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Leg_1_R/Leg_2_R/Stopa_1_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Leg_1_R/Leg_2_R/Stopa_1_R/Stopa_2_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Big-Finger_1_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Big-Finger_1_L/Big-Finger_2_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Big-Finger_1_L/Big-Finger_2_L/Big-Finger_3_R_001
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-1_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-1_L/Palec-4_1_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-1_L/Palec-4_1_L/Palec-4_2_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-1_L/Palec-4_1_L/Palec-4_2_L/Palec-4_3_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-2_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-2_L/Palec-3_1_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-2_L/Palec-3_1_L/Palec-3_2_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-2_L/Palec-3_1_L/Palec-3_2_L/Palec-3_3_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-3_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-3_L/Palec-2_1_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-3_L/Palec-2_1_L/Palec-2_2_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-3_L/Palec-2_1_L/Palec-2_2_L/Palec-2_3_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-4_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-4_L/Palec-1_1_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-4_L/Palec-1_1_L/Palec-1_2_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_L/Hand_L/Hand_2_L/Hand_3_L/Kist-4_L/Palec-1_1_L/Palec-1_2_L/Palec-1_3_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Big-Finger_1_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Big-Finger_1_R/Big-Finger_2_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Big-Finger_1_R/Big-Finger_2_R/Big-Finger_3_L
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-1_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-1_R/Palec-4_1_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-1_R/Palec-4_1_R/Palec-4_2_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-1_R/Palec-4_1_R/Palec-4_2_R/Palec-4_3_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-2_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-2_R/Palec-3_1_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-2_R/Palec-3_1_R/Palec-3_2_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-2_R/Palec-3_1_R/Palec-3_2_R/Palec-3_3_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-3_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-3_R/Palec-2_1_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-3_R/Palec-2_1_R/Palec-2_2_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-3_R/Palec-2_1_R/Palec-2_2_R/Palec-2_3_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-4_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-4_R/Palec-1_1_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-4_R/Palec-1_1_R/Palec-1_2_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Clychica_R/Hand_R/Hand_2_R/Hand_3_R/Kist-4_R/Palec-1_1_R/Palec-1_2_R/Palec-1_3_R
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Sheya
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Sheya/Sheya_2
+        weight: 1
+      - path: PlayerTestArmature/Taz/Poyas/Gryd/Sheya/Sheya_2/Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: Taz
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg_1_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg_1_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg_2_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Leg_2_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Stopa_1_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Stopa_1_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Poyas
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gryd
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sheya_2
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clychica_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clychica_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_2_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_2_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_3_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_3_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-4_1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-4_2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-4_3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-4_1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-4_2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-4_3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Stopa_2_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Stopa_2_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Big-Finger_1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Big-Finger_2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Big-Finger_3_R_001
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-1_1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-1_2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-1_3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-2_1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-2_2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-2_3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-3_1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-3_2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-3_3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Big-Finger_1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Big-Finger_2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Big-Finger_3_L
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-2_1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-2_2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-2_3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-1_1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-1_2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-1_3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-3_1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-3_2_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Palec-3_3_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Standing, WalkForward with movement(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: PlayerTestArmature
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106888, y: 0, z: -0, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IK_Hand_L
+      position: {x: -.734952033, y: .0455816463, z: 1.44112265}
+      rotation: {x: -3.92794464e-05, y: -.00335454755, z: .0106054228, w: .99993813}
+      scale: {x: .999999821, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: IK_Hand_R
+      position: {x: .734952033, y: .0455816463, z: 1.44112265}
+      rotation: {x: .00335373473, y: -3.55866396e-05, z: .99993819, w: .0106037231}
+      scale: {x: .999999881, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: IK_Leg_L
+      position: {x: -.0838804245, y: .0872339085, z: .0350868702}
+      rotation: {x: .500000417, y: -.499999613, z: .500000417, w: .499999613}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IK_Leg_R
+      position: {x: .0838804245, y: .0872339085, z: .0350868702}
+      rotation: {x: .500000417, y: -.499999613, z: .500000417, w: .499999613}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Taz
+      position: {x: -0, y: -.0126172891, z: .98375088}
+      rotation: {x: -.48700279, y: .48700285, z: .512667775, w: .512667775}
+      scale: {x: .999999762, y: 1, z: 1}
+      transformModified: 1
+    - name: Leg_1_L
+      position: {x: .0152855571, y: .0991640314, z: -.000785298587}
+      rotation: {x: .00290269684, y: .999962568, z: 2.37823842e-05, w: .00815364625}
+      scale: {x: .999999881, y: .999999762, z: 1}
+      transformModified: 1
+    - name: Leg_2_L
+      position: {x: -.488496214, y: 2.83089321e-08, z: 1.01257802e-09}
+      rotation: {x: -.000676769007, y: -.0405225158, z: .0108945854, w: .999119043}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Coleno_L
+      position: {x: -.00240550679, y: .011943751, z: .065012984}
+      rotation: {x: -.0640400276, y: .69771868, z: -.0642413199, w: .7106058}
+      scale: {x: .999999762, y: .999999702, z: .999999821}
+      transformModified: 1
+    - name: Stopa_1_L
+      position: {x: -.451138377, y: 2.61061359e-08, z: 5.67216984e-09}
+      rotation: {x: -.0551199801, y: .742636144, z: -.0677539632, w: .66397506}
+      scale: {x: .999999821, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: Stopa_2_L
+      position: {x: -.0798917711, y: 3.72529008e-09, z: -1.04589004e-09}
+      rotation: {x: -.000185993049, y: .0010657222, z: .0030980499, w: .999994636}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Leg_1_R
+      position: {x: .0152855422, y: -.0991640314, z: -.000785328506}
+      rotation: {x: -.00290254597, y: .999962568, z: -2.36967699e-05, w: .00815364625}
+      scale: {x: .999999881, y: .999999762, z: 1}
+      transformModified: 1
+    - name: Leg_2_R
+      position: {x: -.488496214, y: 4.10473149e-08, z: 3.71266395e-09}
+      rotation: {x: .000676749332, y: -.040522512, z: -.010894577, w: .999119043}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Coleno_R
+      position: {x: -.00240527373, y: -.0119426185, z: .0650089532}
+      rotation: {x: .064039439, y: .697722077, z: .0642417446, w: .710602462}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Stopa_1_R
+      position: {x: -.451138347, y: 4.44415491e-08, z: -4.37876713e-09}
+      rotation: {x: .0550929643, y: .742635846, z: .0677837878, w: .663974524}
+      scale: {x: .99999994, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: Stopa_2_R
+      position: {x: -.0798916668, y: -3.31783689e-09, z: -2.65299605e-09}
+      rotation: {x: .000226862219, y: .00106658158, z: -.00309796911, w: .999994636}
+      scale: {x: .99999994, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Poyas
+      position: {x: -.150151551, y: 1.13361169e-08, z: 0}
+      rotation: {x: 1.62524259e-07, y: .18858467, z: 3.97146847e-14, w: .982056975}
+      scale: {x: .999999821, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Gryd
+      position: {x: -.191274077, y: 1.4440797e-08, z: -3.72529008e-09}
+      rotation: {x: -8.37837266e-09, y: -.110974446, z: 1.67566654e-08, w: .99382329}
+      scale: {x: .999999821, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Clychica_L
+      position: {x: -.160664558, y: 1.21298438e-08, z: 1.11758709e-08}
+      rotation: {x: -.488953888, y: .559542179, z: .510807335, w: -.432333767}
+      scale: {x: 1, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Hand_L
+      position: {x: -.190321699, y: 1.16602124e-08, z: 5.2996139e-08}
+      rotation: {x: 3.69919633e-07, y: .0671400055, z: 4.80067547e-06, w: .997743607}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Hand_2_L
+      position: {x: -.240373582, y: 2.25690542e-08, z: 1.11063848e-07}
+      rotation: {x: .000205298988, y: .00510272803, z: .0206770618, w: .999773204}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Hand_3_L
+      position: {x: -.306670249, y: 2.12584972e-08, z: -1.53314431e-07}
+      rotation: {x: -.000132961708, y: -.000943235587, z: -.0100782672, w: .9999488}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Big-Finger_1_L
+      position: {x: .000359049765, y: .000422263518, z: -2.50320463e-05}
+      rotation: {x: .0381129123, y: -.0324995331, z: .476195991, w: .877911508}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Big-Finger_2_L
+      position: {x: -.0462210253, y: -4.3772161e-08, z: -6.49015419e-08}
+      rotation: {x: .0110771516, y: -.0171277951, z: .0365324356, w: .999124348}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Big-Finger_3_R_001
+      position: {x: -.0277610831, y: -6.14672899e-08, z: -5.07570803e-08}
+      rotation: {x: -.000600797182, y: .00684239762, z: -.00288310391, w: .999972284}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Kist-1_L
+      position: {x: -.0444089882, y: 3.97267286e-09, z: -4.17305159e-08}
+      rotation: {x: -.00714429095, y: -.0229917262, z: -.245996445, w: .96897167}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Palec-4_1_L
+      position: {x: -.060964793, y: 4.0512532e-08, z: -1.82306394e-07}
+      rotation: {x: .00168678234, y: .025543971, z: .235219479, w: .971605122}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Palec-4_2_L
+      position: {x: -.0362374783, y: -6.86850399e-09, z: 6.54545147e-08}
+      rotation: {x: .00435123034, y: .000310879841, z: .00116295787, w: .999989808}
+      scale: {x: .999999762, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Palec-4_3_L
+      position: {x: -.0267040804, y: 1.01863407e-08, z: -6.9345333e-08}
+      rotation: {x: .000360986858, y: -.00180375075, z: -.00135705981, w: .999997377}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Kist-2_L
+      position: {x: -.0444089882, y: 3.97267286e-09, z: -4.17305159e-08}
+      rotation: {x: -.00215137354, y: -.015848618, z: -.0948683918, w: .995361328}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Palec-3_1_L
+      position: {x: -.0578552522, y: 2.52912287e-08, z: 4.83414624e-08}
+      rotation: {x: .007271674, y: .0198883824, z: .0843818337, w: .996208489}
+      scale: {x: .999999821, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: Palec-3_2_L
+      position: {x: -.0449113883, y: -2.91037999e-10, z: 7.27595806e-09}
+      rotation: {x: -.00554901781, y: -.000634808093, z: -7.05276107e-05, w: .999984443}
+      scale: {x: .999999821, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: Palec-3_3_L
+      position: {x: -.0268076044, y: -4.36557013e-10, z: 6.37337507e-08}
+      rotation: {x: -.000165785648, y: .00058349676, z: -.00027878629, w: .999999821}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Kist-3_L
+      position: {x: -.0444089882, y: 3.97267286e-09, z: -4.17305159e-08}
+      rotation: {x: .00171608885, y: -.0218064077, z: .05713889, w: .998126626}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Palec-2_1_L
+      position: {x: -.0580601022, y: -1.44700607e-08, z: -1.45751983e-07}
+      rotation: {x: -.00311051356, y: .0255452935, z: -.0675299913, w: .997385323}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Palec-2_2_L
+      position: {x: -.0504468754, y: 6.89760782e-09, z: -1.30356057e-07}
+      rotation: {x: .00114386133, y: -.000395446579, z: .000469128252, w: .999999166}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Palec-2_3_L
+      position: {x: -.0336247571, y: -4.6566101e-10, z: -3.25453584e-08}
+      rotation: {x: -.000164725454, y: -.000107874977, z: -4.86002245e-05, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kist-4_L
+      position: {x: -.0444089882, y: 3.97267286e-09, z: -4.17305159e-08}
+      rotation: {x: .00356894406, y: -.00992090814, z: .208957553, w: .977867901}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Palec-1_1_L
+      position: {x: -.0614408478, y: -5.78365871e-08, z: -4.16330295e-08}
+      rotation: {x: -.0342341848, y: .0201614089, z: -.218289629, w: .975074947}
+      scale: {x: .99999994, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Palec-1_2_L
+      position: {x: -.0497560501, y: 1.92085303e-09, z: 7.1406248e-08}
+      rotation: {x: .0320098177, y: .00126280077, z: -.00106103916, w: .999486208}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Palec-1_3_L
+      position: {x: -.0251932666, y: 2.64844902e-09, z: 1.03771526e-07}
+      rotation: {x: -.000125524253, y: -.000764141965, z: .00074770319, w: .999999464}
+      scale: {x: .999999821, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Clychica_R
+      position: {x: -.160664558, y: 1.21298438e-08, z: 1.11758709e-08}
+      rotation: {x: .488953769, y: .55954212, z: -.510807693, w: -.432333618}
+      scale: {x: .999999881, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: Hand_R
+      position: {x: -.190321699, y: 1.25694086e-08, z: 2.05155203e-07}
+      rotation: {x: -5.35196534e-07, y: .0671398342, z: -2.71348176e-06, w: .997743607}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hand_2_R
+      position: {x: -.240373537, y: 2.11247837e-08, z: 6.1576948e-08}
+      rotation: {x: -.000205295742, y: .00510361418, z: -.0206808504, w: .999773085}
+      scale: {x: .99999994, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Hand_3_R
+      position: {x: -.306670278, y: 1.68958092e-08, z: -4.35738912e-09}
+      rotation: {x: 5.67126081e-05, y: -.000943042221, z: .0100797089, w: .99994874}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Big-Finger_1_R
+      position: {x: .000358965248, y: -.000422254176, z: -2.50737467e-05}
+      rotation: {x: -.0299078338, y: -.0368742384, z: -.475875884, w: .878230035}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Big-Finger_2_R
+      position: {x: -.0462209322, y: 8.70589858e-08, z: -1.68452971e-07}
+      rotation: {x: -.0104707526, y: -.0178252961, z: -.0362015069, w: .999130666}
+      scale: {x: .99999994, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Big-Finger_3_L
+      position: {x: -.0277610682, y: 7.90818149e-08, z: 1.58324838e-08}
+      rotation: {x: .000551979116, y: .00689787278, z: .0027477711, w: .999972284}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Kist-1_R
+      position: {x: -.0444090739, y: 5.4333209e-09, z: -1.39376425e-07}
+      rotation: {x: .00721783331, y: -.023011785, z: .245994762, w: .968971074}
+      scale: {x: .999999821, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Palec-4_1_R
+      position: {x: -.0609648973, y: -1.3213139e-08, z: 6.33299351e-08}
+      rotation: {x: -.0016867813, y: .0255439803, z: -.235219538, w: .971605122}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Palec-4_2_R
+      position: {x: -.0362374447, y: 5.93718097e-09, z: 7.03439582e-08}
+      rotation: {x: -.00435122941, y: .000310880627, z: -.00116295787, w: .999989808}
+      scale: {x: .999999821, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Palec-4_3_R
+      position: {x: -.0267041065, y: 9.60426405e-09, z: 5.37638698e-08}
+      rotation: {x: -.000360986858, y: -.00180375064, z: .00135705993, w: .999997377}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Kist-2_R
+      position: {x: -.0444090739, y: 5.4333209e-09, z: -1.39376425e-07}
+      rotation: {x: .00222712872, y: -.015857188, z: .094867222, w: .995361149}
+      scale: {x: 1.00000012, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: Palec-3_1_R
+      position: {x: -.0578553192, y: 1.26601662e-08, z: -1.90455467e-07}
+      rotation: {x: -.00727167446, y: .0198883861, z: -.0843818337, w: .996208489}
+      scale: {x: 1.00000012, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: Palec-3_2_R
+      position: {x: -.0449114107, y: -2.21189089e-09, z: 1.20984623e-07}
+      rotation: {x: .00554901734, y: -.000634808908, z: 7.05276034e-05, w: .999984443}
+      scale: {x: .999999821, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: Palec-3_3_R
+      position: {x: -.0268076267, y: 7.63975461e-09, z: 1.79090875e-07}
+      rotation: {x: .00016578607, y: .000583496643, z: .000278786261, w: .999999821}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Kist-3_R
+      position: {x: -.0444090739, y: 5.4333209e-09, z: -1.39376425e-07}
+      rotation: {x: -.0016399126, y: -.0218033977, z: -.0571405143, w: .998126686}
+      scale: {x: .999999821, y: .99999994, z: .999999762}
+      transformModified: 1
+    - name: Palec-2_1_R
+      position: {x: -.0580601506, y: 2.28646968e-08, z: -1.11467671e-08}
+      rotation: {x: .00311051123, y: .0255452935, z: .0675299838, w: .997385323}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Palec-2_2_R
+      position: {x: -.0504469387, y: 4.6566101e-10, z: 2.88855495e-09}
+      rotation: {x: -.0011438611, y: -.000395446405, z: -.000469128223, w: .999999166}
+      scale: {x: .99999994, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Palec-2_3_R
+      position: {x: -.0336247012, y: 5.3551048e-09, z: -1.85300451e-08}
+      rotation: {x: .000164725308, y: -.000107875014, z: 4.86001991e-05, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Kist-4_R
+      position: {x: -.0444090739, y: 5.4333209e-09, z: -1.39376425e-07}
+      rotation: {x: -.00349410903, y: -.00990629662, z: -.208958223, w: .97786814}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Palec-1_1_R
+      position: {x: -.0614409223, y: -3.05153662e-08, z: -3.57977115e-08}
+      rotation: {x: .034234181, y: .0201614015, z: .218289629, w: .975074947}
+      scale: {x: .999999821, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: Palec-1_2_R
+      position: {x: -.049756106, y: 1.00699253e-08, z: 8.08358891e-08}
+      rotation: {x: -.0320098214, y: .00126280566, z: .00106103905, w: .999486208}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Palec-1_3_R
+      position: {x: -.0251932759, y: 3.71073794e-09, z: -1.06817879e-08}
+      rotation: {x: .000125524195, y: -.000764141965, z: -.000747703307, w: .999999464}
+      scale: {x: .999999821, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Sheya
+      position: {x: -.160664678, y: 1.212985e-08, z: -7.4505806e-09}
+      rotation: {x: -2.78030086e-07, y: -.137777567, z: -1.64243801e-08, w: .990463197}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Sheya_2
+      position: {x: -.0453470834, y: 3.42360007e-09, z: -2.23517418e-08}
+      rotation: {x: 1.1238437e-07, y: -.0847218037, z: -2.28921966e-08, w: .996404648}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head
+      position: {x: -.0784676895, y: 5.92415406e-09, z: -5.587935e-09}
+      rotation: {x: 1.52136096e-07, y: .0153388996, z: 1.50425953e-14, w: .99988234}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TestPlayerMesh
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106888, y: 0, z: -0, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: a22779d4967f1f34d9cd853c08cc4d95,
+    type: 3}
+  animationType: 3
+  userData: 

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 643bc167b87539b49900c7a805e0f90d
+ShaderImporter:
+  defaultTextures:
+  - _Control: {fileID: 2800000, guid: d7b4bc63bd4728f40bf24fa543c46ee0, type: 3}
+  - _Splat3: {fileID: 2800000, guid: d7b4bc63bd4728f40bf24fa543c46ee0, type: 3}
+  - _Splat2: {fileID: 2800000, guid: d7b4bc63bd4728f40bf24fa543c46ee0, type: 3}
+  - _Splat1: {fileID: 2800000, guid: d7b4bc63bd4728f40bf24fa543c46ee0, type: 3}
+  - _Splat0: {fileID: 2800000, guid: d7b4bc63bd4728f40bf24fa543c46ee0, type: 3}
+  - _MainTex: {fileID: 2800000, guid: d7b4bc63bd4728f40bf24fa543c46ee0, type: 3}
+  userData: 
