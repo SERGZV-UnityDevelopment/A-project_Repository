@@ -11,7 +11,7 @@ public class ObjectData : MonoBehaviour
 	public float LocalOffsetX;			// Переменная для указания смещения по локальной осиX
 	public string ObjectName;			// Игровое название объекта
 	public string Description;			// Описание Объекта
-	public Texture ObjectTexture;		// Текстура объекта разрешением 148x148
+	public Sprite ObjectTexture;		// Текстура объекта разрешением 148x148
 	public Type ObjectType;				// Категория предмета "All", "Weapon", "Armor", "Food", "Magic", "Construction", "Other"
 	public int Queue;					// Цифра для предмета своей категории означающая после какого предмета он будет стоять в очереди
 	public string Path;					// Путь к префабу этого объекта
