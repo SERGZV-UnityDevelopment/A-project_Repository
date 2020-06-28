@@ -15,7 +15,7 @@ public class PlayerControllerTwo : MonoBehaviour
 	public bool Run = false;					// Игрок бежит?								
 	public Animator __animator;					// Сюда ложим аниматор при старте
 	public float __Walk_FB;						// Скорость движения вперёд     
-	private float __WalkSide;					// Скорость движения в стороны
+	public float __WalkSide;					// Скорость движения в стороны
 	public float SpeedRun = 0;					// Меняющаяся скорость бега для плавного перехода между шагом и бегом
 	
 	public GameObject PlayerCam;				// Сдесь лежит игровой объект PlayerCamera
